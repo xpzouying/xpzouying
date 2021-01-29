@@ -3,6 +3,7 @@
 <!--
 **xpzouying/xpzouying** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -28,3 +29,10 @@ Hey, this is Zou-Ying <span class="blinking-cursor" style="font-weight: 100; fon
 > 我们都生活在阴沟里，但仍有人仰望星空。
 >
 > We are all in the gutter, but some of us are looking at the stars.
+
+
+<br />
+
+### Personal Stats
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xpzouying&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
