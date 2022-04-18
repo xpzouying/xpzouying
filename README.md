@@ -22,15 +22,14 @@ Hey, this is Zou-Ying <span class="blinking-cursor" style="font-weight: 100; fon
 - 🆓 I try my best to live free.
 - 😄 I try my best to live happily.
 - 💪 I try my best to learn and practice.
-- 🐈 I'm living with [my cats](https://zouying.world/).
-- 💻 I write random notes about [my life](https://zouying.world/).
+- 🐈 I'm living with my cats.
 
 
 > 我们都生活在阴沟里，但仍有人仰望星空。
 >
 > We are all in the gutter, but some of us are looking at the stars.
 
-<img src="./assets/paofu.jpg" width="480">
+<img src="./assets/paofu.jpg" width="300">
 
 <br />
 
