@@ -30,8 +30,11 @@ Hey, this is Zou-Ying <span class="blinking-cursor" style="font-weight: 100; fon
 >
 > We are all in the gutter, but some of us are looking at the stars.
 
+![paofu](./assets/paofu.jpg)
 
 <br />
+
+<hr />
 
 ### Personal Stats
 
