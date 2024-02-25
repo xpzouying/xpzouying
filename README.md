@@ -26,6 +26,12 @@ Here are some ideas to get you started:
 
 <hr />
 
-### Personal Stats
-
+<!--
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xpzouying&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile-zy.vercel.app/api/github-stats?username=xpzouying&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile-zy.vercel.app/api/github-stats?username=xpzouying&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%235580eb%2C%20%232aeeff)">
+  <img alt="github stats" src="https://pixel-profile-zy.vercel.app/api/github-stats?username=xpzouying&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
+</picture>
