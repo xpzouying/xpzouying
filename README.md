@@ -20,9 +20,11 @@ Here are some ideas to get you started:
 >
 > We are all in the gutter, but some of us are looking at the stars.
 
-<img src="./assets/paofu.jpg" width="300">
-
 <br />
+
+* https://haha.ai
+* https://cvmax.cn - 满分简历，你的智能简历助手。
+
 
 <hr />
 
