@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 * https://haha.ai
 * https://cvmax.cn - 满分简历，你的智能简历助手。
+* [Product Hunt 日报](https://product-daily.haha.ai/)
 
 
 <hr />
