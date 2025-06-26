@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 * https://haha.ai
 * https://cvmax.cn - 满分简历，你的智能简历助手。
 * [Product Hunt 日报](https://product-daily.haha.ai/)
+* [妙存 FlashMemo](https://flash-memos.zouying.work/) - 一键保存网页内容到你的 Memos
 
 <hr />
 
