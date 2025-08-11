@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 * https://haha.ai
 * https://cvmax.cn - 满分简历，你的智能简历助手。
+* autofill - 如果你是应届生，遇到填写表格的麻烦，可以登录 https://cvmax.cn，下载智能自动填表插件试一下。
 * [Product Hunt 日报](https://product-daily.haha.ai/)
 * [妙存 FlashMemo](https://flash-memos.zouying.work/) - 一键保存网页内容到你的 Memos
 * [小红书封面生成器](https://xhs.haha.ai.com) - 小红书封面生成器，3分钟搞定专业封面
