@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 - [Product Hunt 日报](https://product-daily.haha.ai/)
 - [妙存 FlashMemo](https://flash-memos.zouying.work/) - 一键保存网页内容到你的 Memos
 - [小红书封面生成器](https://xhs.haha.ai) - 小红书封面生成器，3 分钟搞定专业封面
-- [Pixel Profile](https://github.com/LuciNyan/pixel-profile) - 生成像素艺术风格的 GitHub 统计卡片，为你的个人主页添加复古游戏风格
 
 <hr />
 
