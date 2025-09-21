@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - [autofill](https://cvmax.cn) - 如果你是应届生，遇到填写表格的麻烦，可以登录 https://cvmax.cn ，下载智能自动填表插件试一下。
 - [Product Hunt 日报](https://product-daily.haha.ai/)
 - [妙存 FlashMemo](https://flash-memos.zouying.work/) - 一键保存网页内容到你的 Memos
-- [小红书封面生成器](https://xhs.haha.ai.com) - 小红书封面生成器，3 分钟搞定专业封面
+- [小红书封面生成器](https://xhs.haha.ai) - 小红书封面生成器，3 分钟搞定专业封面
 - [Pixel Profile](https://github.com/LuciNyan/pixel-profile) - 生成像素艺术风格的 GitHub 统计卡片，为你的个人主页添加复古游戏风格
 
 <hr />
